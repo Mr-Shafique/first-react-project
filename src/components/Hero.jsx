@@ -4,9 +4,9 @@ import Transparent from "./Transparent";
 export const Hero = () => {
   return (
     <>
-      <div className="w-[100%] h-custom p-[10%] flex">
+      <div className="w-[100%] px-[10%] pt-[5%] flex">
         <div>
-          <h1 className="font-poppins text-[108px] w-[590px] leading-none font-extrabold pb-4">YOUR FEET DESERVE THE BEST</h1>
+          <h1 className="font-poppins text-[108px] w-[590px] leading-[80%] font-extrabold pb-4">YOUR FEET DESERVE THE BEST</h1>
           <p className="w-[404px] font-poppins pb-4">YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.</p>
         <div className="flex gap-20"> 
             <Button text="Shop Now" />

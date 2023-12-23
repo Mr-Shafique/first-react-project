@@ -2,7 +2,7 @@ import Button from "./Button"
 export const Navo = () => {
   return (
     <>
-    <div className=" flex justify-between px-[10%] items-center h-20">
+    <div className=" flex justify-between px-[10%] items-center h-[10vh] ">
         <div>
             <img src="/images/brand_logo.png" alt="brand logo" />
         </div>
